@@ -1,4 +1,4 @@
-# Météo DashBoard
+# Météo Dashboard
 
 **[Voir le site](https://meteo-dashboard.onrender.com)**
 
